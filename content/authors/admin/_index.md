@@ -64,7 +64,7 @@ education:
     date_start: 2024-01-01
     date_end: 2026-12-31
     summary: |
-      My master's thesis names focuses on using cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. Supervised by Prof Marcos A. Simplicio Junior (https://scholar.google.com/citations?hl=pt-BR&user=E7n_ohsAAAAJ&view_op=list_works&sortby=pubdate).
+      My master's thesis names focuses on using cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. Supervised by [Prof Marcos A. Simplicio Junior](https://scholar.google.com/citations?hl=pt-BR&user=E7n_ohsAAAAJ&view_op=list_works&sortby=pubdate).
   - area: BSc Computer Engineering
     institution: Universidade de São Paulo
     date_start: 2019-01-01
