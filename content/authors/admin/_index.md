@@ -3,7 +3,7 @@
 title: Lucas Cupertino Cardoso
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Lucas
 
 # Full name (for SEO)
 first_name: Lucas
