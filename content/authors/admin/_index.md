@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MS Student
+role: MSc Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Universidade de São Paulo
-    url: #https://openai.com/
+    url: https://www5.usp.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -59,12 +59,12 @@ education:
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
-  - area: MS Computer Engineering
+  - area: MSc Computer Engineering
     institution: Universidade de São Paulo
     date_start: 2024-01-01
     date_end: 2026-12-31
     summary: |
-      My master's thesis names focuses on using cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. I am supervised by [Prof Marcos A. Simplicio Junior](https://scholar.google.com/citations?hl=pt-BR&user=E7n_ohsAAAAJ&view_op=list_works&sortby=pubdate).
+      My master's thesis focuses on using cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. I am supervised by [Prof Marcos A. Simplicio Junior](https://scholar.google.com/citations?hl=pt-BR&user=E7n_ohsAAAAJ&view_op=list_works&sortby=pubdate).
   - area: BSc Computer Engineering
     institution: Universidade de São Paulo
     date_start: 2019-01-01
@@ -172,4 +172,4 @@ languages:
 
 ## About Me
 
-I am a MS student at the Computer and Electrical Engineering Undergraduate Program of the University of São Paulo, where I also obtained my graduation. My main focus is on Applied Cryptography. I am currently working on the use of cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. In the future, I will be a doctoral student at the same University, working on Post-Quantum Cryptography. Besides the previously mentioned topics, I am also interested in Theoretical Cryptography, Complexity Analysis, and Computational Number Theory.
+I am a MSc student at the Computer and Electrical Engineering Undergraduate Program of the University of São Paulo, where I also obtained my graduation. My main focus is on Applied Cryptography. I am currently working on the use of cryptographic primitives (digital signatures and zero-knowledge proofs) to produce secure and traceable compact credentials for distributed systems, especially cloud-based environments. In the future, I will be a doctoral student at the same University, working on Post-Quantum Cryptography. Besides the previously mentioned topics, I am also interested in Theoretical Cryptography, Complexity Analysis, and Computational Number Theory.
