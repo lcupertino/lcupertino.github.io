@@ -17,7 +17,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-02-14T00:00:00Z'
-doi: ''
+doi: '10.1109/CCGRID64434.2025.00033'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-05-20T00:00:00Z'
@@ -34,12 +34,13 @@ publication_short: In *CCGRID*
 abstract: Quantum transition reached a new level of importance since NIST standardized post-quantum cryptographic algorithms in late 2024. Consequently, several studies addressed the required changes in existing technologies and systems embracing post-quantum algorithms to face an imminent quantum threat. Cloud-based environments are no different, especially when assuring correct authentication and authorization. We address the usage of post-quantum primitives embedded in identity-management systems, a crucial entity inside distributed systems. Our proposal is based on SPIFFE / SPIRE, an open-source framework for secure identity production, integrating post-quantum and classical primitives in a hybrid manner. Moreover, we discuss using X.509 certificates as part of our infrastructure and their performance, combining different digital signature algorithms.
 
 # Summary. An optional shortened abstract.
-summary: We integrate post-quantum and hybrid algorithms inside SPIFFE/SPIRE framework.
+summary: We integrate post-quantum cryptography algorithms inside SPIFFE/SPIRE framework.
 
 tags:
   - Post-Quantum Cryptography
   - Identity Management Systems
   - Cloud-based Environments
+  - Hybrid Certificates
 
 # Display this page in the Featured widget?
 featured: true
