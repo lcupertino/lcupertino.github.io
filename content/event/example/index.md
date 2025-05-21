@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Presentation in CCGRID 2025
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: CCGRID 2025
+event_url: https://site.uit.no/ccgrid2025/
 
-location: Hugo Blox Builder HQ
+location: UiT The Arctic University of Norway
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  #street: 450 Serra Mall
+  city: Tromsø
+  #region: CA
+  #postcode: '94305'
+  country: Norway
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presentation of the article "Next-Generation SPIFFE/SPIRE Identity Management Systems with Post-Quantum Cryptography Algorithms"
+abstract: 'We address the usage of post-quantum primitives embedded in identity-management systems, a crucial entity inside distributed systems. Our proposal is based on SPIFFE / SPIRE, an open-source framework for secure identity production, integrating post-quantum and classical primitives in a hybrid manner. Moreover, we discuss using X.509 certificates as part of our infrastructure and their performance, combining different digital signature algorithms.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-05-19T13:00:00Z'
+date_end: '2020-05-22T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -26,6 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
+  - Charles Miers
 
 tags: []
 
@@ -33,7 +34,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/red-and-white-boat-on-dock-during-daytime-XS45ISBr5xk)'
   focal_point: Right
 
 #links:
@@ -44,7 +45,7 @@ image:
 url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
